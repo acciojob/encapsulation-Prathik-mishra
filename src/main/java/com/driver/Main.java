@@ -4,8 +4,8 @@ public class Main {
   public static void main(String[] args) {
     RWOnly obj = new RWOnly();
 
-     obj.name = "";
-     System.out.println(obj.name);
+//     obj.name = "";
+//     System.out.println(obj.name);
 
     //error message 'name' has private access in 'com.driver.RWOnly'
 
